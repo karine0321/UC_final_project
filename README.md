@@ -1,6 +1,6 @@
 # UC_final_project
 
-For the Urban Computing course final project ***Assess the Medical Resource Allocation in Fighting Against 2019-nCoV***.
+For the Urban Computing course final project ***Assessing the Hospital Beds Configuration in The US, EspeciallyWhen Facing COVID Pandemic***.
 
 
 
